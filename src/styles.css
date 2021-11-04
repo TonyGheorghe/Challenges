@@ -1,0 +1,53 @@
+.App {
+  background-color: grey;
+  border-radius: 10px;
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.title {
+  margin-top: 10px;
+  font-size: 24px;
+  text-align: center;
+  border-radius: 15px;
+  background-color: orange;
+  padding: 1px;
+  height: 100px;
+}
+.search {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  width: 25%;
+  position: relative;
+  height: 25px;
+  font-size: 18px;
+}
+p {
+  display: flex;
+  margin: 10px;
+  font-size: 18px;
+}
+.people {
+  display: center;
+  text-align: center;
+  width: 100px;
+  font-size: 27px;
+  font-weight: bold;
+}
+.image {
+  display: inline;
+  margin: 5px;
+  height: 50px;
+  width: 50px;
+  margin-left: 15px;
+}
+.box {
+  margin: 10px;
+  background-color: #255;
+  border: solid 2px;
+  border-radius: 15px;
+  border-color: black;
+}
